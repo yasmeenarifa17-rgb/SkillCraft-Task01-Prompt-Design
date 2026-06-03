@@ -1,6 +1,6 @@
 # 🚀 Task 01: Writing Better Prompts
 
-![Header](<img width="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/3d59c037-3a5f-45cc-a27f-d88f2ef3c919" />
+![Header](https://github.com/user-attachments/assets/3d59c037-3a5f-45cc-a27f-d88f2ef3c919 />
 )
 ![Prompt Engineering](https://img.shields.io/badge/Skill-Prompt_Engineering-blue?style=for-the-badge)
 ![LLM Behavior](https://img.shields.io/badge/Focus-LLM_Behavior-orange?style=for-the-badge)
